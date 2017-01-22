@@ -2,6 +2,7 @@
 2017 To Do List
 
 1.替代习惯：每周替代一个新习惯。
+  EMC-Challenges: Every(E) month(M)  I plan to have a new challenge(C). 
 
 2.有个好身体：努力锻炼，早睡早起，站桩打坐。
 
