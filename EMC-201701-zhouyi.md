@@ -1,8 +1,8 @@
-EMC-Challenges: Every(E)  month(M) I plan to have a new challenge(C). 
+EMC-Challenges: Every(E) month(M) I plan to have a new challenge(C).
 
-EMC-2017年的52个改变，每周改变1个一个习惯。
+EMC-2017年的52个改变，每周改变一个习惯。
 
-EMC-201701 每周学些易经一卦
+EMC-201701 每周学《周易诠释》一卦
 
 每周学习通过传统文化公众号推送，以《周易诠释》李守力著为阅读材料，每周学习《易经》一卦。
 
