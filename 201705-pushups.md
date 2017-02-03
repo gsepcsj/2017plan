@@ -1,0 +1,1 @@
+At the beginning of January, I happened upon a video you may have seen: a young woman doing pushups for 100 days. She starts out “scrawny,” but gets stronger. I wanted to do that. So I did, and you can too.
