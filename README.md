@@ -4,7 +4,7 @@
 1.替代习惯：每周替代一个新习惯。
   EMC-Challenges: Every(E) month(M)  I plan to have a new challenge(C). 
 
-2.有个好身体：努力锻炼，早睡早起，站桩打坐。
+2.有个好身体：努力锻炼，早睡早起，站桩冥想。
 
 3.有个好心智：努力读书，认知心智，坚持输出。
 
